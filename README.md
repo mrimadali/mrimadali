@@ -12,8 +12,8 @@ I'm **Imad**, a Software Engineer working on Mobile - iOS, iPadOS and tvOS devel
 
 ## Let's connect
 
-[Stackoverflow](https://stackoverflow.com/users/1025063/imad-ali)
-[LinkedIn](https://www.linkedin.com/in/imad-ali/)
+- [Stackoverflow](https://stackoverflow.com/users/1025063/imad-ali)
+- [LinkedIn](https://www.linkedin.com/in/imad-ali/)
 
 
 📫 How to reach me: mrimadali@gmail.com / m.imadali10@gmail.com
