@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Imad**, a Software Engineer working on Mobile - iOS, iPadOS and tvOS development, love programming in Swift, SwiftUI & Objective-C. I'm basically from **India 🇮🇳**
+I'm Imad, a Software Engineer working on Mobile - iOS, iPadOS and tvOS development, love programming in Swift, SwiftUI & Objective-C. I'm basically from India 🇮🇳
 
 
 ## My recent blog posts
