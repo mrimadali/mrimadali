@@ -2,7 +2,7 @@
 
 I'm Imad, a Software Engineer working on Mobile - iOS, iPadOS, watchOS and tvOS development, love programming in Swift, SwiftUI & Objective-C. I'm basically from India 🇮🇳
 
-<a href="https://stackoverflow.com/users/1025063/imad-ali"><img src="https://stackoverflow.com/users/flair/1025063.png" width="208" height="58" alt="profile for Imad Ali at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Imad Ali at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackexchange.com/users/1012877"><img src="https://stackexchange.com/users/flair/1012877.png" width="208" height="58" alt="profile for Imad Ali on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Imad Ali on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## My recent blog posts
 
