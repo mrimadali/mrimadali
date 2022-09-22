@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Imad, a Software Engineer working software since 2006, professionally since 2010, and on Apple platforms since 2011. I love building robust, well-engineered, and beautiful applications.I'm basically from India 🇮🇳
+I'm Imad, a Software Engineer writing software since 2006, professionally since 2010, and on Apple platforms since 2011. I love building robust, well-engineered, and beautiful applications.I'm basically from India 🇮🇳
 
 
 
