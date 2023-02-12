@@ -8,7 +8,7 @@ I'm Imad, a Software Engineer writing software since 2010, professionally since 
 
 ## My recent blog posts
 
-
+- [Swift - Class Vs Struct](https://imad-ali.medium.com/swift-classes-vs-struct-3687bc4df969)
 - [UIKit in SwiftUI framework & SwiftUI in UIKit](https://imad-ali.medium.com/uikit-in-swiftui-framework-swiftui-in-uikit-cc8ab8f2f1f4)
 - [5 Tips to Speed Up Xcode Builds — iOS/macOS](https://imad-ali.medium.com/5-tips-to-speed-up-xcode-builds-ios-macos-8aafa5a0838c)
 - [Remote/Push Notification in iOS Simulator — In 10 Easy Steps](https://imad-ali.medium.com/remote-notification-in-ios-simulator-xcode-11-4-or-later-ios-13-4-or-later-8e5a77881ef0)
