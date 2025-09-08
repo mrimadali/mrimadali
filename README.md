@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hey there! I'm **Imad Ali Mohammad**, a **Senior/Lead iOS Engineer** with over **14 years** of software craftsmanship, specializing in Apple's ecosystem. I build robust, scalable iOS applications that serve millions of users across various industries, including telecommunications, healthcare, retail, enterprises, e-commerce, and startups. **Certified ScrumMaster** | **Swift & SwiftUI Expert** | **Technical Writer** sharing iOS insights on Medium | Mentoring tomorrow's iOS developers | Based in India 🇮🇳 ⚡
+👋 Hey there! I'm **Mohammad Imad Ali**, a **Senior / Lead iOS Engineer** with over **14 years** of software craftsmanship, specializing in Apple's ecosystem. I build robust, scalable iOS applications that serve millions of users across various industries, including telecommunications, healthcare, retail, aviation, auto-motive, enterprises, e-commerce, and startups. **Certified ScrumMaster** | **Swift & SwiftUI Expert** | **Technical Writer** sharing iOS insights on Medium | Mentoring tomorrow's iOS developers | Based in India 🇮🇳 ⚡
 
 ## 🎯 Skills Matrix
 
