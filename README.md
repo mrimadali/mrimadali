@@ -4,7 +4,7 @@ I'm Imad, a Software Engineer writing software since 2010, professionally since 
 
 
 
-<a href="https://stackexchange.com/users/1012877"><img src="https://stackexchange.com/users/flair/1012877.png" width="208" height="58" alt="profile for Imad Ali on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Imad Ali on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackexchange.com/users/1012877"><img src="[https://stackexchange.com/users/flair/1012877.p](https://stackoverflow.com/users/1025063/imad-ali)ng" width="208" height="58" alt="profile for Imad Ali on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Imad Ali on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## 🎯 Skills Matrix
 
