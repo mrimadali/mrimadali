@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Imad, a Software Engineer writing software since 2010, professionally since 2010, and on Apple platforms since 2011. I love building robust, well-engineered, and beautiful applications. I'm basically from India 🇮🇳
-
+👋 Hey there! I'm **Imad Ali Mohammad**, a **Lead iOS Engineer** with **14+ years** of software craftsmanship and **13+ years** mastering Apple's ecosystem. I build robust, scalable iOS applications that serve **millions of users** across telecommunications, healthcare, retail, enterprises, e-commerce, and startups. **Certified ScrumMaster** | **Swift & SwiftUI Expert** | **Technical Writer** sharing iOS insights on Medium | Mentoring tomorrow's iOS developers | Based in India 🇮🇳 ⚡
 
 ## 🎯 Skills Matrix
 
