@@ -10,7 +10,7 @@
 | **UI Frameworks** | SwiftUI, UIKit | ⭐⭐⭐⭐⭐ |
 | **Architecture** | MVVM, MVC, MVP, Clean Arch | ⭐⭐⭐⭐⭐ |
 | **Databases** | Core Data, SQLite, Realm | ⭐⭐⭐⭐⭐ |
-| **Backend** | Firebase, REST APIs | ⭐⭐⭐⭐ |
+| **Backend Integration** | Firebase, REST APIs | ⭐⭐⭐⭐ |
 | **Testing** | XCTest, UI Testing | ⭐⭐⭐⭐ |
 | **Tools** | Xcode, Git, Figma | ⭐⭐⭐⭐⭐ |
 
