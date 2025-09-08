@@ -6,6 +6,19 @@ I'm Imad, a Software Engineer writing software since 2010, professionally since 
 
 <a href="https://stackexchange.com/users/1012877"><img src="https://stackexchange.com/users/flair/1012877.png" width="208" height="58" alt="profile for Imad Ali on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Imad Ali on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
+## 🎯 Skills Matrix
+
+| Category | Technologies | Proficiency |
+|----------|-------------|------------|
+| **Languages** | Swift, Objective-C | ⭐⭐⭐⭐⭐ |
+| **UI Frameworks** | SwiftUI, UIKit | ⭐⭐⭐⭐⭐ |
+| **Architecture** | MVVM, MVC, MVP, Clean Arch | ⭐⭐⭐⭐⭐ |
+| **Databases** | Core Data, SQLite, Realm | ⭐⭐⭐⭐⭐ |
+| **Backend** | Firebase, REST APIs | ⭐⭐⭐⭐ |
+| **Testing** | XCTest, UI Testing | ⭐⭐⭐⭐ |
+| **Tools** | Xcode, Git, Figma | ⭐⭐⭐⭐⭐ |
+
+
 ## My recent blog posts
 
 - [Swift - Class Vs Struct](https://imad-ali.medium.com/swift-classes-vs-struct-3687bc4df969)
